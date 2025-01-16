@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: # Do what you love, stay close to loved ones, and laugh often—it counts as cardio. #<a href='#'>Affiliations</a>.
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Welcome! And thank you for visiting my website. I am a senior at [Swarthmore College](https://www.swarthmore.edu/), double majoring in pure math (honors track) and general engineering. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My interest lies in the intersection of **robotics**, **math**, and **societal impact**. Connecting all three fields, I am interested in topics such as bulding <u>safe and efficient Multi Robot System (MRS) with theoretical guarantees</u>, with application ranging from robotics team for disaster response to smart traffic control system.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently working on my senior thesis with Professor [Matt Zucker](https://mzucker.github.io/swarthmore/) to build an affordable motion (position and orientation) tracking system for MRS using four cameras. Also, I am collaborating with Professor [John Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/) and PhD student [Yiwei Lyu](https://www.andrew.cmu.edu/user/yiweilyu/) to develop a safety-critical navigation framework for heterogeneous, decentralized MRS. Lastly, I am working with the Swarthmore Registrar's Office to build a course scheduling pipeline that generates schedules with minimal course conflicts for students while satisfying faculty preferences.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I’m not working on these projects, I love spending time outdoors. I’m an active climber, a former midfielder for the 2018 U-17 Korean National Lacrosse Team, and I’ve even completed a cross-country cycling trip from Busan to Seoul—just don’t ask me to swim unless you want to see a live demonstration of sinking!!
+
