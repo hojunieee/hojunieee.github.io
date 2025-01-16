@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Hojune Kim",
+    "label": "Honors candidate in Mathematics and Enginnering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "hojune.kim@gmail.com",
+    "phone": "(610) 938-5766",
+    "url": "https://hojunieee.github.io",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
@@ -22,15 +22,15 @@
       }
     ]
   },
-  "work": [
+  "Research Experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Robotics Institute, Carnegie Mellon University",
+      "position": "Visiting Scholar",
+      "location": "Pittsburgh, PA",
+      "url": "https://drive-lab-cmu.github.io/",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-10",
+      "summary": "Proposed and developed a safety-guaranteed navigation algorithm for multi-agent systems using Bayesian Inference, under the mentorship of Yiwei Lyu (PhD student) and Dr. John Dolan."
     }
   ],
   "volunteer": [
@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
+      "institution": "Swathmore College",
+      "location": "Swathmore, PA",
+      "url": "https://www.swarthmore.edu/",
       "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "studyType": "Bachelor of Arts in Math (honors) and Bachelor of Science in Enginnering",
+      "startDate": "2019-09-01",
+      "endDate": "2025-05-20",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [" Real Analysis I & II", "Abstract Algebra I & II", "Differential Geometry I & II", "Stochastic and Numerical Methods", "Probability", "Mobile Robotics", "Computer Vision"]
     }
   ],
   "awards": [
@@ -65,50 +65,6 @@
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
