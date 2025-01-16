@@ -431,16 +431,22 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+    },{id: "news-testing-long-content",
+          title: 'Testing long content',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-awarded-first-place-in-swattank-swarthmore-s-annual-startup-pitch-competition",
+          title: 'Awarded first place in SwatTank, Swarthmore’s annual startup pitch competition',
+          description: "",
+          section: "News",},{id: "news-started-my-summer-internship-at-lawrence-berkeley-national-laboratory",
+          title: 'Started my summer internship at Lawrence Berkeley National Laboratory',
+          description: "",
+          section: "News",},{id: "news-selected-as-one-of-the-top-five-students-in-swarthmore-s-engineering-department-tau-beta-pi",
+          title: 'Selected as one of the top five students in Swarthmore’s Engineering Department (Tau...',
+          description: "",
+          section: "News",},{id: "news-started-my-summer-internship-at-carnegie-mellon-university-in-the-drive-lab-as-a-visiting-scholar",
+          title: 'Started my summer internship at Carnegie Mellon University in the DRIVE Lab as...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -492,35 +498,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%68%6F%6A%75%6E%65.%6B%69%6D@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/hojunieee", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.linkedin.com/in/hojunekim", "_blank");
         },
       },{
       id: 'light-theme',
